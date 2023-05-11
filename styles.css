@@ -26,3 +26,26 @@ color: aqua;
 .section1 #h2Styles{
     background-color: aliceblue;
 }
+
+
+header{
+
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+header{
+
+    margin: 20px;
+}
+
+ul{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+ul li a {
+
+    color: aliceblue;
+}
