@@ -1,0 +1,28 @@
+body{
+
+
+    /* color de fondo de pagina */
+background:url(public/werner-du-plessis-6dDHofabCQ8-unsplash\ \(1\).jpg);
+/* Ajusta laimagen */
+
+background-size: cover;
+
+}
+
+
+header{ 
+    backdrop-filter: blur(4px);
+
+}
+
+.h2Styles{
+color: aqua;
+}
+
+#h2Styles{
+    color: chartreuse;
+}
+
+.section1 #h2Styles{
+    background-color: aliceblue;
+}
