@@ -48,4 +48,48 @@ ul{
 ul li a {
 
     color: aliceblue;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+button{
+
+    display: inline-block;
+    border-radius: 3px;
+    padding: 7px 12px;
+    border: 1px solid #D5D5D5;
+    background-image: linear-gradient(#eee #ddd);
+    font:700 13px/18px helvetica, arial;
+
+}
+
+.button--state-success{
+
+    color: #fff;
+    background: #569e3d linear-gradient(#79d858);
+    border-color: #4a993e;
+}
+
+.button--state--danger{
+
+    color: #900;
+}
+
+
+.button--state-info{
+
+    color: #fff;
+    background-color: deepskyblue;
+    border-color: blue;
 }
